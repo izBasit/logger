@@ -170,7 +170,7 @@ Logger.e(exception,"message");
 <img src='https://github.com/orhanobut/logger/blob/master/images/wrap-closed.png'/>
 
 
-###License
+### License
 <pre>
 Copyright 2015 Orhan Obut
 
